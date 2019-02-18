@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhumoReader", "KhumoReader\KhumoReader.csproj", "{C43448AA-E70F-4B9D-8751-2D73B3E75DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFCTools", "NFCTools\NFCTools.csproj", "{B832510A-BA24-4949-AD2F-0C6AC5123A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketTest", "WebSocketTest\WebSocketTest.csproj", "{648CFDFB-A6D1-4C56-817B-73FE54A80335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43448AA-E70F-4B9D-8751-2D73B3E75DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43448AA-E70F-4B9D-8751-2D73B3E75DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43448AA-E70F-4B9D-8751-2D73B3E75DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43448AA-E70F-4B9D-8751-2D73B3E75DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B832510A-BA24-4949-AD2F-0C6AC5123A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B832510A-BA24-4949-AD2F-0C6AC5123A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B832510A-BA24-4949-AD2F-0C6AC5123A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B832510A-BA24-4949-AD2F-0C6AC5123A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648CFDFB-A6D1-4C56-817B-73FE54A80335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648CFDFB-A6D1-4C56-817B-73FE54A80335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648CFDFB-A6D1-4C56-817B-73FE54A80335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648CFDFB-A6D1-4C56-817B-73FE54A80335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
